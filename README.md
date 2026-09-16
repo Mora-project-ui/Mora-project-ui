@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rama al-jannah</h1>
 <h3 align="center">A curious Linux tinkerer from indonesia</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mora-project-ui&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" />
-</div>
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 - 🔭 I’m currently working on **Mora App - private Android app**
 
 - 🌱 I’m currently learning **Kotlin, Android development, Linux & shell scripting**
@@ -22,6 +16,10 @@
 - 📫 How to reach me **mramaaljannah@gmail.com**
 
 - ⚡ Fun fact **I install Linux distros just to see what they can do 🗿**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mora-project-ui&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
