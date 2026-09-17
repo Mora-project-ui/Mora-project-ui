@@ -1,10 +1,9 @@
-# cara membuat folder di repositories github
-  klik icon + di dalam repositories kalian lalu pilih create new file 
+# cara membuat folder di repository github
+  klik icon + di dalam repository kalian lalu pilih create new file 
     lalu isi nama folder yg kalian mau contoh : assets/.gitkeep
 
 penjelasan nya 
     assets/.gitkeep  = assets/ sebagai nama folder, ini bebas kalian ganti sesuai ke inginan kalian
-                     = .gitkeep sebagai file kosong agar github mau membuat folder baru ,setelah folder nya jadi kalian bebas mau menghapus file .gitkeep nya atau di biarkan saja
-
+                     = .gitkeep sebagai file kosong agar folder yang masih kosong tetap bisa dibuat/disimpan di repository. Setelah folder sudah berisi file lain, .gitkeep boleh dihapus.
 
 ## next tutorial
