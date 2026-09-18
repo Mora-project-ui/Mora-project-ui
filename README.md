@@ -17,17 +17,19 @@
 
 - ⚡ Fun fact **I install Linux distros just to see what they can do 🗿**
 
+<h3 align="center">Overall Performance</h3>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mora-project-ui&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" />
 </div>
 
-## <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://instagram.com/mhmdramaaa._" target="blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/Social/instagram.svg"
       alt="mhmdramaaa._"
       height="30"
       width="40"
@@ -37,15 +39,25 @@
   <a href="https://www.youtube.com/@ramabws" target="blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/Social/youtube.svg"
       alt="@ramabws"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://lynk.id/ramlvoe" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/Other/lynk%2Cid.svg"
+      alt="mhmdramaaa._"
       height="30"
       width="40"
     />
   </a>
 </p>
 
-## <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
