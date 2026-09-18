@@ -103,6 +103,15 @@
     />
   </a>
 
+   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/Other/gitlab.svg"
+      alt="gitlab"
+      width="40"
+      height="40"
+    />
+  </a>
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/FrontendDevelopment/html.svg"
