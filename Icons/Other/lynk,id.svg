@@ -1,94 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 512 512"
-  width="48"
-  height="48"
+  viewBox="0 0 48 48"
 >
+  <g transform="scale(0.09375)">
 
-  <!-- L -->
-  <path
-    d="M20 194 V315 H94"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+    <!-- L -->
+    <path
+      d="M20 194 V315 H94"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
 
-  <!-- Y -->
-  <path
-    d="M103 194
-       C103 240 128 265 169 275
-       C210 265 235 240 235 194"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+    <!-- Y -->
+    <path
+      d="M103 194
+         C103 240 128 265 169 275
+         C210 265 235 240 235 194"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
 
-  <path
-    d="M169 275 V315"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-  />
+    <path
+      d="M169 275 V315"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+    />
 
-  <!-- N -->
-  <path
-    d="M248 315 V256
-       C248 207 279 192 310 192
-       C346 192 366 218 366 256
-       V315"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+    <!-- N -->
+    <path
+      d="M248 315 V256
+         C248 207 279 192 310 192
+         C346 192 366 218 366 256
+         V315"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
 
-  <!-- Green inner part -->
-  <path
-    d="M277 315 V260
-       C277 236 289 219 310 219
-       C331 219 342 236 342 260
-       V315 Z"
-    fill="#20B878"
-  />
+    <!-- Green -->
+    <path
+      d="M277 315 V260
+         C277 236 289 219 310 219
+         C331 219 342 236 342 260
+         V315 Z"
+      fill="#20B878"
+    />
 
-  <!-- K vertical -->
-  <path
-    d="M397 194 V315"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-  />
+    <!-- K -->
+    <path
+      d="M397 194 V315"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+    />
 
-  <!-- K upper arm -->
-  <path
-    d="M401 260
-       L439 222
-       L469 194"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+    <path
+      d="M401 260
+         L439 222
+         L469 194"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
 
-  <!-- K lower arm -->
-  <path
-    d="M401 260
-       L439 298
-       L469 315"
-    fill="none"
-    stroke="#444444"
-    stroke-width="21"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+    <path
+      d="M401 260
+         L439 298
+         L469 315"
+      fill="none"
+      stroke="#444444"
+      stroke-width="21"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
 
+  </g>
 </svg>
