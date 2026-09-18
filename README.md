@@ -23,6 +23,13 @@
   <img src="https://streak-stats.demolab.com?user=Mora-project-ui&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" />
 </div>
 
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=Mora-project-ui.Mora-project-ui"
+    alt="Profile views"
+  />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
