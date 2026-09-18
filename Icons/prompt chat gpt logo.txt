@@ -1,0 +1,38 @@
+Buat ulang logo pada gambar yang saya kirim sebagai file SVG menggunakan kode SVG murni.
+
+PENTING:
+- Gunakan gambar yang saya kirim sebagai referensi visual utama.
+- Jangan mengubah desain, bentuk, proporsi, warna, atau susunan logo kecuali saya meminta perubahan.
+- Saya ingin hasil akhirnya berupa KODE SVG, bukan gambar PNG/JPG.
+- Berikan kode SVG lengkap yang bisa langsung saya copy ke file `.svg`.
+
+UKURAN DAN CANVAS:
+- Gunakan canvas/viewBox 48 × 48.
+- Gunakan:
+  viewBox="0 0 48 48"
+- Logo harus memenuhi area canvas secara proporsional seperti icon SVG 48×48 pada umumnya.
+- Jangan hanya mengganti `width="48"` dan `height="48"` pada SVG ber-viewBox 512×512.
+- Koordinat/path logo harus disesuaikan agar desain tetap memiliki ukuran visual yang proporsional di dalam viewBox 48×48.
+- Jangan membuat logo menjadi terlalu kecil karena terlalu banyak ruang kosong di dalam canvas.
+- Jangan membuat logo terpotong oleh batas canvas.
+- Beri margin kosong yang wajar di sekitar logo.
+- Jika desain aslinya memiliki proporsi horizontal, pertahankan proporsi horizontal tersebut; jangan dipaksa menjadi bentuk kotak hanya karena canvas 48×48.
+
+POSISI:
+- Logo harus rata dan terpusat secara horizontal dan vertikal.
+- Semua bagian logo harus memiliki baseline/posisi yang konsisten.
+- Jarak antar elemen/huruf harus mengikuti gambar referensi.
+- Jangan membuat salah satu huruf/elemen terlihat naik, turun, terlalu besar, atau terlalu kecil dibanding elemen lainnya.
+
+KUALITAS:
+- Gunakan path/vector SVG yang rapi.
+- Hindari bentuk yang terlihat kasar atau tidak simetris.
+- Jika menggunakan stroke, gunakan stroke-linecap dan stroke-linejoin yang sesuai agar ujung dan sudut terlihat rapi.
+- Jangan menggunakan raster image/embed gambar sebagai pengganti vector.
+- SVG harus tetap tajam ketika diperbesar.
+
+OUTPUT:
+- Berikan hanya kode SVG lengkap dalam code block.
+- Jangan memberikan penjelasan panjang.
+- Jangan mengubah desain logo hanya karena menurutmu ada bentuk yang lebih bagus.
+- Fokus utama: bentuk mengikuti gambar referensi + canvas 48×48 + posisi rata + ukuran visual pas.
