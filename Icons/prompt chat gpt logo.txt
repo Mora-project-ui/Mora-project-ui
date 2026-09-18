@@ -1,38 +1,61 @@
 Buat ulang logo pada gambar yang saya kirim sebagai file SVG menggunakan kode SVG murni.
 
-PENTING:
+REFERENSI DESAIN:
 - Gunakan gambar yang saya kirim sebagai referensi visual utama.
-- Jangan mengubah desain, bentuk, proporsi, warna, atau susunan logo kecuali saya meminta perubahan.
-- Saya ingin hasil akhirnya berupa KODE SVG, bukan gambar PNG/JPG.
-- Berikan kode SVG lengkap yang bisa langsung saya copy ke file `.svg`.
+- Pertahankan desain logo semirip mungkin dengan gambar referensi.
+- Jangan mengubah bentuk, proporsi, warna, susunan, gaya, atau karakter logo kecuali saya secara eksplisit meminta perubahan.
+- Jangan menambahkan atau menghilangkan elemen dari logo.
+- Jangan "memperbaiki" desain berdasarkan interpretasi atau selera sendiri.
 
-UKURAN DAN CANVAS:
-- Gunakan canvas/viewBox 48 × 48.
-- Gunakan:
-  viewBox="0 0 48 48"
-- Logo harus memenuhi area canvas secara proporsional seperti icon SVG 48×48 pada umumnya.
-- Jangan hanya mengganti `width="48"` dan `height="48"` pada SVG ber-viewBox 512×512.
-- Koordinat/path logo harus disesuaikan agar desain tetap memiliki ukuran visual yang proporsional di dalam viewBox 48×48.
-- Jangan membuat logo menjadi terlalu kecil karena terlalu banyak ruang kosong di dalam canvas.
-- Jangan membuat logo terpotong oleh batas canvas.
-- Beri margin kosong yang wajar di sekitar logo.
-- Jika desain aslinya memiliki proporsi horizontal, pertahankan proporsi horizontal tersebut; jangan dipaksa menjadi bentuk kotak hanya karena canvas 48×48.
-
-POSISI:
-- Logo harus rata dan terpusat secara horizontal dan vertikal.
-- Semua bagian logo harus memiliki baseline/posisi yang konsisten.
-- Jarak antar elemen/huruf harus mengikuti gambar referensi.
-- Jangan membuat salah satu huruf/elemen terlihat naik, turun, terlalu besar, atau terlalu kecil dibanding elemen lainnya.
-
-KUALITAS:
-- Gunakan path/vector SVG yang rapi.
-- Hindari bentuk yang terlihat kasar atau tidak simetris.
-- Jika menggunakan stroke, gunakan stroke-linecap dan stroke-linejoin yang sesuai agar ujung dan sudut terlihat rapi.
-- Jangan menggunakan raster image/embed gambar sebagai pengganti vector.
+FORMAT:
+- Hasil akhir harus berupa kode SVG lengkap.
+- Gunakan SVG vector murni berupa <path>, <rect>, <circle>, <line>, <polygon>, <g>, stroke, fill, transform, atau elemen SVG lain yang sesuai.
+- Jangan menggunakan PNG, JPG, base64 image, <image>, atau embed gambar sebagai pengganti vector.
 - SVG harus tetap tajam ketika diperbesar.
 
+CANVAS:
+- Gunakan canvas 48×48.
+- Wajib menggunakan:
+  viewBox="0 0 48 48"
+- Jangan hanya mengubah width="48" height="48" pada SVG yang masih menggunakan viewBox 512×512.
+- Desain logo harus benar-benar dipetakan ke dalam viewBox 48×48.
+- Boleh menggunakan sistem koordinat yang lebih besar lalu mengecilkannya menggunakan transform seperti <g transform="scale(...)"> jika itu membantu mempertahankan bentuk desain.
+- Boleh juga langsung menggunakan koordinat 48×48.
+- Metode koordinat bebas, yang penting hasil visual akhirnya benar dan proporsional.
+
+UKURAN VISUAL LOGO:
+- Logo harus memiliki ukuran visual yang pas untuk canvas 48×48 seperti icon SVG pada umumnya.
+- Jangan membuat logo terlalu kecil dengan ruang kosong berlebihan.
+- Jangan membuat logo terlalu besar hingga terpotong oleh batas canvas.
+- Berikan margin kosong yang wajar di sekeliling logo.
+- Jika logo memiliki bentuk yang lebih lebar daripada tinggi, pertahankan proporsi horizontal tersebut.
+- Jangan memaksa logo menjadi persegi hanya karena canvas berukuran 48×48.
+- Jangan melakukan distorsi horizontal atau vertikal.
+
+POSISI DAN ALIGNMENT:
+- Posisikan logo secara seimbang di dalam canvas.
+- Logo harus rata dan terpusat secara horizontal dan vertikal.
+- Pastikan semua elemen atau huruf memiliki posisi dan ukuran yang konsisten.
+- Pertahankan baseline, tinggi, jarak antarhuruf, dan hubungan antar-elemen sesuai gambar referensi.
+- Jangan membuat satu huruf atau elemen terlihat naik, turun, terlalu besar, terlalu kecil, atau tidak sejajar dengan elemen lainnya.
+- Pastikan seluruh logo berada dalam batas viewBox 48×48.
+
+KUALITAS VECTOR:
+- Gunakan path/vector yang rapi dan presisi.
+- Hindari bentuk yang kasar, miring tidak sengaja, atau tidak simetris.
+- Jika menggunakan stroke, gunakan stroke-linecap dan stroke-linejoin yang sesuai dengan bentuk asli logo.
+- Pertahankan ketebalan garis secara konsisten sesuai gambar referensi.
+- Jangan mengubah bentuk hanya untuk membuatnya lebih mudah dibuat sebagai SVG.
+
 OUTPUT:
-- Berikan hanya kode SVG lengkap dalam code block.
-- Jangan memberikan penjelasan panjang.
-- Jangan mengubah desain logo hanya karena menurutmu ada bentuk yang lebih bagus.
-- Fokus utama: bentuk mengikuti gambar referensi + canvas 48×48 + posisi rata + ukuran visual pas.
+- Berikan HANYA kode SVG lengkap di dalam satu code block.
+- Jangan memberikan penjelasan, analisis, atau komentar panjang di luar kode.
+- Kode harus bisa langsung saya copy dan simpan sebagai file `.svg`.
+
+PRIORITAS UTAMA:
+1. Kemiripan desain dengan gambar referensi.
+2. Proporsi logo tetap benar.
+3. Canvas wajib viewBox="0 0 48 48".
+4. Ukuran visual logo harus pas, tidak terlalu kecil dan tidak terpotong.
+5. Posisi dan alignment harus rapi.
+6. Tetap menggunakan vector SVG murni.
