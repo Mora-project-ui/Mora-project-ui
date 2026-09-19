@@ -25,7 +25,7 @@
 
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=Mora-project-ui.Mora-project-ui"
+    src="https://visitor-badge.laobi.icu/badge?page_id=Mora-project-ui.Mora-project-ui&left_text=Profile%20Views"
     alt="Profile views"
   />
 </p>
