@@ -132,7 +132,7 @@
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/Other/Linux.svg"
+      src="https://raw.githubusercontent.com/Mora-project-ui/Mora-project-ui/refs/heads/main/Icons/Operating%20System/Linux.svg"
       alt="linux"
       width="40"
       height="40"
