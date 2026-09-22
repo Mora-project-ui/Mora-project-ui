@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Android development & Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://lynk.id/ramlvoe](https://lynk.id/ramlvoe)
+- 👨‍💻 All of my projects are available at [https://lynk.id/ramlvoe]([https://lynk.id/ramlvoe](https://mora-project-ui.github.io/portfolio/))
 
 - 💬 Ask me about **Linux, GRUB themes, Linux customization & Android projects**
 
