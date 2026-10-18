@@ -158,7 +158,3 @@
   </a>
 </p>
 
-
-
-
-test blank dok tyoe
