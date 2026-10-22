@@ -1,22 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mohammad Rama al-jannah</h1>
-<h3 align="center">A curious Linux tinkerer from indonesia</h3>
+# Hi, I'm Mohammad Rama 👋
 
-- 🔭 I’m currently working on **Mora App - private Android app**
+> **Linux Tinkerer & Android Developer**  
+> Building custom tools, open-source themes, and learning native app development.
 
-- 🌱 I’m currently learning **Kotlin, Android development, Linux & shell scripting**
+---
 
-- 👯 I’m looking to collaborate on **Open-source Linux projects**
+### 🛠️ What I'm Up To
+* **Currently Building**: Mora App (Private Android App)
+* **Learning**: Kotlin, Native Android Development, & Advanced Shell Scripting
+* **Collaborating On**: Open-source Linux customization tools & GRUB themes
+* **Tech Focus**: Linux Customization, System Optimization, Android Architecture
 
-- 🤝 I’m looking for help with **Android development & Kotlin**
+---
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mora-project-ui.github.io/portfolio/)
+### 🌐 Connect & Portfolio
+* **Portfolio**: [mora-project-ui.github.io/portfolio](https://mora-project-ui.github.io/portfolio/)
+* **Email**: [mramaaljannah@gmail.com](mailto:mramaaljannah@gmail.com)
 
-- 💬 Ask me about **Linux, GRUB themes, Linux customization & Android projects**
+---
 
-- 📫 How to reach me **mramaaljannah@gmail.com**
-
-- ⚡ Fun fact **I install Linux distros just to see what they can do 🗿**
-
+> 🐧 *Fun fact: I distro-hop so you don't have to.*
 <h3 align="center">Overall Performance</h3>
 
 <div align="center">
