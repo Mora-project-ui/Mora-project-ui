@@ -161,9 +161,11 @@
   </a>
 </p>
 
-# UPDATE 03-noc-22:47
+# UPDATE 03-nov-22:47
 
 https://motionbgs.com/stelle-cosmic-cheerleader
+
+https://motionbgs.com/yuta-okkotsu-manga-awakening
 
 ---
 
