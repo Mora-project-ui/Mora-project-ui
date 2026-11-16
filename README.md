@@ -161,12 +161,6 @@
   </a>
 </p>
 
-# UPDATE 14-nov-22:35
-
-https://motionbgs.com/stelle-cosmic-cheerleader
-
-https://motionbgs.com/yuta-okkotsu-manga-awakening
-
 ---
 
 # 💸 DONATE LEWAT SINI BOSQUE😂 👇👇👇
